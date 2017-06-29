@@ -1,8 +1,8 @@
 # Base config
 
-$DatabaseServer = ""
-$DatabaseName   = ""
+$DatabaseServer = "london.contoso.com"
+$DatabaseName   = "customer"
 $ServerInstance = ""
 
 # Custom Setting
-
+$CustVPN        = $false
