@@ -2,3 +2,7 @@
 
 $DatabaseServer = ""
 $DatabaseName   = ""
+$ServerInstance = ""
+
+
+# Custom Setting
