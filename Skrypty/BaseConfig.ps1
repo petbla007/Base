@@ -1,4 +1,8 @@
 # Base config
 
-$DatabaseServer = "london.contoso.cz"
-$DatabaseName   = "customer"
+$DatabaseServer = ""
+$DatabaseName   = ""
+$ServerInstance = ""
+
+# Custom Setting
+
