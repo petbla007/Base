@@ -1,4 +1,4 @@
 # Base config
 
-$DatabaseServer = ""
-$DatabaseName   = ""
+$DatabaseServer = "london.contoso.cz"
+$DatabaseName   = "customer"
