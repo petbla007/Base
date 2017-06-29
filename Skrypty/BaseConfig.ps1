@@ -1,5 +1,4 @@
 # Base config
-
 $DatabaseServer = ""
 $DatabaseName   = ""
 $ServerInstance = ""
