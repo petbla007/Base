@@ -8,6 +8,7 @@ $portRTC        = "7046"
 $portODada      = "7047"
 $portSOAP       = "7048"
 $serviceAccount = ""
+$sqlAccount     = ""
 
 # Custom Setting
 $CustVPN        = $true
