@@ -1,8 +1,9 @@
 # Base config
-$DatabaseServer = ""
-$DatabaseName   = ""
+$DatabaseServer = "london.contoso.cz"
+$DatabaseName   = "cust1"
 $ServerInstance = ""
-$NavInstance    = ""
+$NavInstance    = "DynamicsNAV100Cust"
+$WebInstance    = ""
 
 # Custom Setting
-
+$CustVPN        = $true
