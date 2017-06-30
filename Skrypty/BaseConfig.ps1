@@ -5,6 +5,9 @@ $ServerInstance = ""
 $NavInstance    = "DynamicsNAV100Cust"
 $WebInstance    = ""
 $portRTC        = "7046"
+$portODada      = "7047"
+$portSOAP       = "7048"
+
 
 # Custom Setting
 $CustVPN        = $true
